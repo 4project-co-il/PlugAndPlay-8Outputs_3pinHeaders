@@ -4457,7 +4457,7 @@
 			(uuid "3055e060-32e4-4a90-9fc8-3e7f2886a835")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J3")
 					(unit 1)
@@ -4523,7 +4523,7 @@
 			(uuid "ca33f3c5-dee0-48e4-814c-3fb37ef238e4")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR025")
 					(unit 1)
@@ -4588,7 +4588,7 @@
 			(uuid "aaf3a20e-fa71-407d-a1c7-3316ad76c7f2")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR06")
 					(unit 1)
@@ -4654,7 +4654,7 @@
 			(uuid "5bf640fe-ed01-482c-80fc-5ac55e5b14f2")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR02")
 					(unit 1)
@@ -4720,7 +4720,7 @@
 			(uuid "67bb9b88-c012-4032-b485-a8e4619cc982")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR033")
 					(unit 1)
@@ -4786,7 +4786,7 @@
 			(uuid "9704dbcf-3799-44ff-adef-2bd4e5477af6")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR09")
 					(unit 1)
@@ -4852,7 +4852,7 @@
 			(uuid "01963d5c-5a7f-431b-9da0-9e9c33731d6c")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR03")
 					(unit 1)
@@ -4919,7 +4919,7 @@
 			(uuid "64064191-81a2-41f1-b2d8-dae48acea8c3")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#FLG03")
 					(unit 1)
@@ -5004,7 +5004,7 @@
 			(uuid "fbd5d9e3-96f6-4332-b02f-491f4bfda125")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "R5")
 					(unit 1)
@@ -5070,7 +5070,7 @@
 			(uuid "ec6d44b4-ccf5-426e-b36b-d63590f61410")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR030")
 					(unit 1)
@@ -5136,7 +5136,7 @@
 			(uuid "1cde6786-a91c-44e6-a6ca-1667d24a3283")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR04")
 					(unit 1)
@@ -5202,7 +5202,7 @@
 			(uuid "8ba3df41-0bee-4d0a-b81f-c768eb051feb")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR20")
 					(unit 1)
@@ -5263,7 +5263,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 90.17 54.61 0)
 			(effects
 				(font
@@ -5272,7 +5272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 90.17 54.61 0)
 			(effects
 				(font
@@ -5300,7 +5300,7 @@
 			(uuid "99b659a2-e537-4f13-a6f9-1c84ba004168")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J8")
 					(unit 1)
@@ -5393,7 +5393,7 @@
 			(uuid "cf390887-e404-4d83-a50c-f8ebc487fb62")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J2")
 					(unit 1)
@@ -5459,7 +5459,7 @@
 			(uuid "fa0fc7de-3a22-4e84-9971-42eb017184fd")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR013")
 					(unit 1)
@@ -5520,7 +5520,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 39.37 31.75 0)
 			(effects
 				(font
@@ -5529,7 +5529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 39.37 31.75 0)
 			(effects
 				(font
@@ -5557,7 +5557,7 @@
 			(uuid "a33fff4f-ca2a-4cb8-9d9d-b04891e86552")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J5")
 					(unit 1)
@@ -5632,7 +5632,7 @@
 			(uuid "9585198f-2c68-47b7-9807-fb562de7cb0e")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#FLG01")
 					(unit 1)
@@ -5698,7 +5698,7 @@
 			(uuid "0fd2bea7-f2e9-4130-aa0c-3989757fb6ad")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR12")
 					(unit 1)
@@ -5803,7 +5803,7 @@
 			(uuid "c5c46843-5cd0-4532-9dd0-49696c3fd052")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J4")
 					(unit 1)
@@ -5869,7 +5869,7 @@
 			(uuid "b0a843e8-ef53-4238-8618-f87634116723")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR01")
 					(unit 1)
@@ -5935,7 +5935,7 @@
 			(uuid "76047e9e-0fc5-4760-bbd0-b7ccc6bff266")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR018")
 					(unit 1)
@@ -6001,7 +6001,7 @@
 			(uuid "7d342f9f-03db-48da-8b26-d4c4ca123b47")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR022")
 					(unit 1)
@@ -6067,7 +6067,7 @@
 			(uuid "7a678aab-d577-4a79-8075-d1feb852dabd")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR024")
 					(unit 1)
@@ -6216,7 +6216,7 @@
 			(uuid "74f9ca3e-20b2-4ddf-b7a8-5431173cea79")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "U2")
 					(unit 1)
@@ -6304,7 +6304,7 @@
 			(uuid "43b7b0ef-f15c-4a89-9b39-4a68411a0802")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "C6")
 					(unit 1)
@@ -6370,7 +6370,7 @@
 			(uuid "78e2cad5-7ae9-4a15-8b61-e886cc9d415b")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR028")
 					(unit 1)
@@ -6436,7 +6436,7 @@
 			(uuid "8821cf8d-7836-4a95-aa39-bda14b9ea84e")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR010")
 					(unit 1)
@@ -6502,7 +6502,7 @@
 			(uuid "29edfb3d-b1c3-499a-b0d6-d24e10925240")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR031")
 					(unit 1)
@@ -6568,7 +6568,7 @@
 			(uuid "c4e2b02b-b2ed-41ac-a424-773f8b546f69")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR026")
 					(unit 1)
@@ -6634,7 +6634,7 @@
 			(uuid "dd9f281a-aa61-4d29-b7bc-98858d9a9bbc")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR032")
 					(unit 1)
@@ -6700,7 +6700,7 @@
 			(uuid "fd3545b9-a866-4bea-a90c-a0904bd3132a")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR07")
 					(unit 1)
@@ -6767,7 +6767,7 @@
 			(uuid "ebd53881-9601-40e9-908a-f27dc84f562e")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#FLG02")
 					(unit 1)
@@ -6833,7 +6833,7 @@
 			(uuid "85fcb47b-87b0-430b-a1c5-aa4be9b0d36a")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR029")
 					(unit 1)
@@ -6894,7 +6894,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 39.37 54.61 0)
 			(effects
 				(font
@@ -6903,7 +6903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 39.37 54.61 0)
 			(effects
 				(font
@@ -6931,7 +6931,7 @@
 			(uuid "5e2e5138-c113-441a-9923-93b348af2397")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J7")
 					(unit 1)
@@ -7019,7 +7019,7 @@
 			(uuid "8d89bd50-ae43-461c-88be-1924d18ca6eb")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "C1")
 					(unit 1)
@@ -7085,7 +7085,7 @@
 			(uuid "522cfbc5-8643-49e6-b448-90da5b0ec161")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR027")
 					(unit 1)
@@ -7151,7 +7151,7 @@
 			(uuid "954c2066-7c79-4c1b-a2c1-0e4f5fd18bbc")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR19")
 					(unit 1)
@@ -7217,7 +7217,7 @@
 			(uuid "710eeaec-d6d6-4e3e-9d30-d9f12b7b90b2")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR08")
 					(unit 1)
@@ -7283,7 +7283,7 @@
 			(uuid "76d49d4c-7bac-49e8-9409-58a630adb46f")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR014")
 					(unit 1)
@@ -7344,7 +7344,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 90.17 31.75 0)
 			(effects
 				(font
@@ -7353,7 +7353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 90.17 31.75 0)
 			(effects
 				(font
@@ -7381,7 +7381,7 @@
 			(uuid "c967bfe5-a072-4cdc-8844-156286afeace")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J6")
 					(unit 1)
@@ -7467,7 +7467,7 @@
 			(uuid "3483215e-ee03-4878-91ae-33bc4086e4ca")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "R6")
 					(unit 1)
@@ -7532,7 +7532,7 @@
 			(uuid "c8c1a83d-28fc-4753-a687-011684a42bc1")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR05")
 					(unit 1)
@@ -7598,7 +7598,7 @@
 			(uuid "7d2c055b-6cc7-4f72-9c16-f62f4119fa06")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR021")
 					(unit 1)
@@ -7704,7 +7704,7 @@
 			(uuid "ce68798f-5d6d-4cdf-ba68-43a2a2afad60")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "U1")
 					(unit 1)
@@ -7770,7 +7770,7 @@
 			(uuid "114bbf6c-2911-4339-a157-9d6da42c1488")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR023")
 					(unit 1)
@@ -7869,7 +7869,7 @@
 			(uuid "d73b037c-abda-4ebc-b12e-a46c3813cf61")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "J1")
 					(unit 1)
@@ -7935,7 +7935,7 @@
 			(uuid "4c8c48bd-ff37-407e-a066-176966766be3")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR017")
 					(unit 1)
@@ -8001,7 +8001,7 @@
 			(uuid "de67bd2a-319f-46e5-a0a2-75a68cae6427")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR016")
 					(unit 1)
@@ -8067,7 +8067,7 @@
 			(uuid "27d6e77d-a7da-4eb6-864f-148da2d6e893")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR015")
 					(unit 1)
@@ -8133,7 +8133,7 @@
 			(uuid "511e9b41-058d-4939-96ef-b9a554e95967")
 		)
 		(instances
-			(project "8Outputs"
+			(project "8Outputs_3pinHeaders"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR11")
 					(unit 1)

@@ -161,7 +161,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -174,7 +174,7 @@
 				)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -190,7 +190,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/3add3356-2402-4d06-a0f5-5c3bb05dc040")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
@@ -720,7 +720,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5482f375-3db3-4ca3-be4f-9a4f82bc114f")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
@@ -1295,7 +1295,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d8c7e29e-5aa6-4b7e-ad80-873a94b2ee95")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.11 -1.785)
@@ -1773,7 +1773,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/09523c16-0cbf-407c-a9c6-5deb3070fb64")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
@@ -2348,7 +2348,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b28b745d-ebf0-4080-a6d1-e3d3b4551b56")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -2519,7 +2519,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2d211706-10ca-4b3a-8ac6-490d8d37f7ed")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -2659,7 +2659,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2672,7 +2672,7 @@
 				)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2688,7 +2688,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/b1d9e736-c7dd-4802-86f0-d69bb3b7ba08")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
@@ -3203,7 +3203,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7902f038-d830-44d8-9938-8e1cad1926e3")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -3343,7 +3343,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3356,7 +3356,7 @@
 				)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3372,7 +3372,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/c801cefa-5c1d-4b23-93c7-11b840087fdd")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
@@ -3861,7 +3861,7 @@
 		(property ki_fp_filters "TSSOP*4.4x9.7mm*P0.65mm*")
 		(path "/667a708d-c9e3-46d1-8c43-9c0eef50612f")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.31 -4.96)
@@ -4557,7 +4557,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ca18e5fc-6aae-4926-83c8-4d39900bd61e")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4840,7 +4840,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/ce81a4a9-0517-426b-8164-548cf3e16473")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.06 -2.56)
@@ -5406,7 +5406,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C53244533"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5419,7 +5419,7 @@
 				)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "Bag"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5435,7 +5435,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/47ecc1bf-cee5-47ca-8c20-22adeada98d2")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
@@ -6160,7 +6160,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3daa1ebc-5e7a-4c40-8e38-1d7f1cff3d61")
 		(sheetname "/")
-		(sheetfile "8Outputs.kicad_sch")
+		(sheetfile "8Outputs_3pinHeaders.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.33 -8.95)
