@@ -6660,6 +6660,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "5V max"
+		(at 82.5532 53.723572 270)
+		(layer "F.SilkS")
+		(uuid "d131e193-d3a1-4039-969c-6ac9289aaf56")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.24)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Plug-n-Play 8 Outputs"
 		(at 92.9218 46.237859 90)
 		(layer "B.SilkS")

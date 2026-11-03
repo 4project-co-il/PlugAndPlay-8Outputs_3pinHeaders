@@ -1,4 +1,4 @@
-27435553716816233
+27439379544092582
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94080,6 +94080,13 @@ PnP_Library
 0
 0
 PnP_Library
+BatteryHolder_CR2032_PTH
+http://www.keyelco.com/product-pdf.cfm?p=719
+Keystone type 103 battery holder
+0
+2
+2
+PnP_Library
 PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Right
 surface-mounted straight socket strip, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
 Surface mounted socket strip SMD 1x02 2.54mm single row style2 pin1 right
@@ -94114,6 +94121,13 @@ Surface mounted socket strip SMD 1x05 2.54mm single row style2 pin1 right
 0
 10
 5
+PnP_Library
+PinSocket_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x05 2.54mm double row
+0
+20
+10
 PnP_Library
 PinSocket_2x06_P2.54mm_Vertical_SMD
 surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
