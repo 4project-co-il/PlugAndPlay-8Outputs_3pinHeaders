@@ -6634,6 +6634,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "5V"
+		(at 82.93 56.069286 270)
+		(layer "F.SilkS")
+		(uuid "d6e95a3c-ba0c-459f-a4c5-65de922cefa4")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "PnP Power Module"
 		(at 90.95 48.697858 270)
 		(layer "F.SilkS")
@@ -6660,8 +6673,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Plug-n-Play 8 Outputs"
-		(at 92.9218 46.237859 90)
+	(gr_text "Plug-n-Play 8 Outputs\nServo connectors"
+		(at 94.1418 57.335001 90)
 		(layer "B.SilkS")
 		(uuid "41495761-5d76-4759-81bb-b13a1c1b4406")
 		(effects
@@ -6670,7 +6683,7 @@
 				(thickness 0.24)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "OUT 0"
